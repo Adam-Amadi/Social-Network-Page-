@@ -1,0 +1,355 @@
+*{
+    box-sizing: border-box;margin:auto;
+    background-color: rgb(163, 162, 162);
+}
+
+.header {
+    position: relative;
+    top: 5px;
+    background-color:#3B5998;
+    width: 850px;
+    height: 300px;
+    border: 1px solid black;
+    margin: auto;}
+
+.profile-box {
+    position: relative;
+    top: 145px;
+    left: -325px;
+    background-color:#3B5998;
+    width: 180px;
+    height: 180px;
+    border: 0.5px black solid;
+    z-index: 12;
+}
+.header h1 {
+    position: relative;
+    top: 25px;
+    left:-90px;
+    width: 250px;
+    height: 0px;
+    background-color:#3B5998;
+    color: white;
+    
+}
+.website {
+    position: relative;
+    top: 75px;
+    left:-165px;
+    width: 100px;
+    background-color:#3B5998;
+    color: white;
+    z-index: 12;
+    font-size: 21px;
+    
+}
+.header button{
+    background-color: white;
+    border-radius: 1.5px;
+    margin: auto;
+    font-weight: bold;
+    font-family: sans-serif;
+
+    
+}
+
+.link{position: relative;
+    top:67px;
+    left: 638px;
+    padding: 2px;
+   
+}
+.follow{position: relative;
+    top:65px;
+    left: 641px;
+    padding:4.5px;
+    color: rgb(141, 141, 141);
+
+}
+.message{position: relative;
+    top:67px;
+    left: 636px;
+    padding:2px;
+}
+.more{position: relative;
+    top:65px;
+    left: 630px;
+    padding:4.5px;
+
+}
+
+
+
+.under-box { 
+    width: 850px;
+    height: 42px;
+    background-color: white;
+    border: 5px black;
+    margin: auto;
+}
+.leftside-box {
+    position: relative;
+    top: -120px;
+    left: -261px;
+    width: 328px;
+    height: 190px;
+    background-color: white;
+    border: 0.1px black;
+    border-radius: 2px;
+    margin: auto;
+}
+
+.leftside-box h3 {
+    position: relative;
+    top: -40px;
+    left: 5px;
+    width: 318px;
+   background-color: white;
+   margin: auto;
+    
+}
+
+.leftside-box p {
+    position: relative;
+    top: 70px;
+    width: 325px;
+    color: rgb(132, 132, 255);
+    background-color: white;
+    margin: auto;
+}
+
+.line1{
+    position: relative;
+    top:-78px;
+    left: 0px;
+    width: 328px;
+    height: 0px;
+    border-bottom: 1px solid black;
+    margin: auto;
+    }
+
+.line2{
+        position: relative;
+        top:45px;
+        left: 0px;
+        width: 328px;
+        height: 0px;
+        border-bottom: 1px solid black;
+        margin: auto;
+        }
+.left-webside{
+    position: relative;
+    top: 100px;
+    left: -90px;
+    width: 115px;
+    background-color: white;
+    color: rgb(132, 119, 243);
+    margin: auto;}   
+     
+     
+.rightside-box {
+    position: relative;
+    top: -310px;
+    left: 169px;
+    width: 512px;
+    height: 280px;
+    background-color: white;
+    border-radius: 2px;
+    margin: auto;
+}
+
+
+
+.box11{
+    top:-37px;
+    left:-190px;
+    padding:14px;
+    background:white;
+    position: relative;;
+    width:90px;
+    -webkit-box-shadow: 0px 0px 0px rgba(0, 0, 0, .20);
+    height:16px;
+    font-size: 14px;
+    font-weight: bold;
+    text-decoration:underline#3B5998;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    cursor:pointer;
+    color: black;
+    margin: auto;
+
+    }    
+    
+    
+
+ .box12{
+    top:-62px;
+    left:-125px;
+    padding:14px;
+    background:white;
+    position: relative;;
+    width:60px;
+    -webkit-box-shadow: 1px 0px 0px rgba(0, 0, 0, .20);
+    height:16px;
+    font-size:11px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    cursor:pointer;
+    color:#868383;
+    text-align: center;
+    margin: auto;
+    }
+
+ .box13{
+    top:-90px;
+    left:-52px;
+    padding:14px;
+    background:white;
+    position: relative;;
+    width:80px;
+    -webkit-box-shadow: 1px 0px 0px rgba(0, 0, 0, .20);
+    height:16px;
+    font-size:11px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    cursor:pointer;
+    color:#868383;
+    margin: auto;
+    text-align:center;
+    margin: auto;
+    }
+
+ .box14{
+    top:-118px;
+    left:19px;
+    padding:14px;
+    background:white;
+    position: relative;;
+    width:60px;
+    -webkit-box-shadow: 1px 0px 0px rgba(0, 0, 0, .20);
+    height:16px;
+    font-size:11px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    cursor:pointer;
+    color:#868383;
+    text-align: center;
+    margin: auto;
+    }
+    
+  .box15 {  
+        top:-136px;
+        left:88px;
+        background:white;
+        position: relative;;
+        width:75px;
+        -webkit-box-shadow: 0px 0px 0px rgba(0, 0, 0, .20);
+        height:16px;
+        font-size:11px;
+        font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+        cursor:pointer;
+        color:#868383;
+        text-align: center;
+        margin: auto;
+        }
+        
+    .box11:hover{background:#ffffff;
+    }
+    .box12:hover,.box12:active{background:#ffffff; 
+    }
+    .box13:hover{background:#ffffff; 
+    }
+    .box14:hover{background:#ffffff; 
+
+    }
+    .box15:hover{background:#ffffff;} 
+ 
+     
+    .profile-box p {position: relative;
+        top: 15px;
+        left: -25px;
+        background-color:#3B5998;
+        color: white;
+        width: 10px;
+        font-size: 130px;
+        margin: auto;
+      }
+  .little-box{
+      position: relative;
+      top: 10px;
+      left: -220px;
+      width: 45px;
+      height: 45px;
+      background-color:#3B5998;
+      margin: auto;
+
+  }
+    .Your-page-name{
+      position: relative;;
+      top: -55px;
+      left: -133px;
+      width: 110px;
+      background-color:white;
+      color: rgb(62, 62, 102);
+      font-size: 12px;
+      margin: auto;
+        
+  }
+  .rightside-box p {
+      position: relative;
+      top: -27px;
+      left: -57px;
+      width: 100px;
+      background-color: white;
+      font-size:10px;
+      color: rgb(141, 133, 133);
+      z-index: 11;
+      margin: auto;
+  }
+   .cover-photo {
+      position: relative;
+      top: -41px;
+      left: 3px;
+      width: 100px;
+      background-color: white;
+      font-size:12px;
+      color: rgb(83, 57, 177);
+      z-index: 12;
+      margin: auto;
+  }
+  .years{
+      position: relative;
+      top: -55px;
+      left: -138px;
+      width: 100px;
+      background-color: white;
+      font-size:11px;
+      color:  rgb(141, 133, 133);
+      margin: auto;
+      
+  }
+  .little-box2 {
+      position: relative;
+      top: -52px;
+      left: 1px;
+      width: 508px;
+      height: 180px;
+      background-color:#3B5998;
+      margin: auto;
+
+  }
+  .line3 {
+       position: relative;
+        top:-49px;
+        left: 0px;
+        width: 511px;
+        border-bottom: 1px solid black;
+        margin: auto;
+
+        }
+   .comment {
+       position: relative;
+       top: 155px;
+       left:-105px;
+       background-color: white;
+       z-index: 13;
+       width: 280px;
+       font-size: 13px;
+       margin: auto;
+   }
